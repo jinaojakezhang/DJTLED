@@ -1,6 +1,6 @@
 # A direct Jacobian total Lagrangian explicit dynamics finite element algorithm for real-time simulation of hyperelastic materials (MIT License)
-[![download](https://img.shields.io/github/downloads/jinaojakezhang/DJTLED/total.svg)](https://github.com/jinaojakezhang/DJTLED/releases)
-[![LICENSE](https://img.shields.io/github/license/jinaojakezhang/DJTLED.svg)](https://github.com/jinaojakezhang/DJTLED/blob/master/LICENSE)
+![GitHub](https://img.shields.io/github/license/jinaojakezhang/DJTLED)
+![GitHub top language](https://img.shields.io/github/languages/top/jinaojakezhang/DJTLED)
 <p align="center"><img src="https://user-images.githubusercontent.com/93865598/148030709-0b253319-6f5b-48f4-9757-20488482e6de.PNG"></p>
 This is the source repository for the paper:
 
