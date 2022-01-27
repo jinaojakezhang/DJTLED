@@ -32,7 +32,7 @@ If this code is helpful in your projects, please help to :star: this repo or rec
 1.	Neo-Hookean hyperelastic material.
 ## Boundary conditions (BCs):
 1.	Node index: Disp, FixP.
-2.	Element index: Gravity.
+2.	All Elements: Gravity.
 ## Notes:
 1.	Node and Element index can start at 0, 1, or any but must be consistent in a file.
 2.	Index starts at 0: *.txt.
