@@ -4,7 +4,8 @@
 <p align="center"><img src="https://user-images.githubusercontent.com/93865598/148030709-0b253319-6f5b-48f4-9757-20488482e6de.PNG"></p>
 This is the source repository for the paper:
 
-Zhang, J. (2021). A direct Jacobian total Lagrangian explicit dynamics finite element algorithm for real-time simulation of hyperelastic materials. International Journal for Numerical Methods in Engineering, 122(20), 5744-5772. [doi:10.1002/nme.6772](https://onlinelibrary.wiley.com/doi/10.1002/nme.6772).
+| Zhang, J. (2021). A direct Jacobian total Lagrangian explicit dynamics finite element algorithm for real-time simulation of hyperelastic materials. *International Journal for Numerical Methods in Engineering*, 122(20), 5744-5772. [doi:10.1002/nme.6772](https://onlinelibrary.wiley.com/doi/10.1002/nme.6772). |
+| --- |
 
 Please cite the above paper if you use this code for your research.
 
